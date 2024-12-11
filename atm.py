@@ -1,3 +1,4 @@
+#atm_simulation project
 import time
 
 #basic welcome message
