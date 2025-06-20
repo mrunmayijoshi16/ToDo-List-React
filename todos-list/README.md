@@ -1,4 +1,4 @@
-# 📝 ToDo List App
+# ToDo List App
 
 This is a simple and modern ToDo List application built using **React**. It allows users to add, view, and delete their daily tasks, with persistent storage using the browser's localStorage.
 
@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Installation
 
@@ -19,7 +19,7 @@ npm install
 npm start
 Then open http://localhost:3000 to view it in the browser.
 
-📦 Available Scripts
+Available Scripts
 In the project directory, you can run:
 
 npm start — Runs the app in development mode.
@@ -30,20 +30,20 @@ npm run build — Builds the app for production to the build folder.
 
 npm run eject — (Optional) Ejects configuration for customization.
 
-⚠️ You don’t need to run eject unless you want to fully control your build setup.
+ You don’t need to run eject unless you want to fully control your build setup.
 
-🌐 Features
-✅ Add new todos with a title and description
+ Features
+ Add new todos with a title and description
 
-✅ Delete todos
+ Delete todos
 
-✅ Todos persist in browser localStorage
+ Todos persist in browser localStorage
 
-✅ Responsive and clean UI
+ Responsive and clean UI
 
-✅ Basic routing with react-router-dom
+ Basic routing with react-router-dom
 
-🚧 Future scope: user authentication, filtering, animations
+ Future scope: user authentication, filtering, animations
 
 🛠 Tech Stack
 React
@@ -54,7 +54,7 @@ HTML5 + CSS3
 
 React Router
 
-📁 Deployment
+ Deployment
 To create a production build:
 
 bash
@@ -63,10 +63,5 @@ Edit
 npm run build
 This will generate a build/ folder with optimized static files you can deploy on platforms like Netlify, Vercel, or GitHub Pages.
 
-📄 License
+ License
 This project is open-source and free to use.
-
-🙌 Acknowledgements
-React Documentation
-
-Create React App Docs
