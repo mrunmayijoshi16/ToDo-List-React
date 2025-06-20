@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To run the app locally:
 
 ```bash
-git clone https://github.com/your-username/todo-list-react.git
+git clone https://github.com/mrunmayijoshi16/todo-list-react.git
 cd todo-list-react
 npm install
 npm start
